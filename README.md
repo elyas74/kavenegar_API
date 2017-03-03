@@ -1,5 +1,5 @@
 ## kavenegar_API
-nodejs kavanegar.com rest API.
+nodejs kavenegar.com rest API.
 
 sample usage :
 
